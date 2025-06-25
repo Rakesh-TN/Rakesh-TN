@@ -3,6 +3,8 @@
 🌐 **Web Developer | UI/UX Designer | Data Analyst**  
 🎯 Passionate about building sleek web apps, designing smooth user experiences, and analyzing data to drive insights.
 
+![Visitors](https://komarev.com/ghpvc/?username=tnrakesh68&label=Profile%20Views&color=0e75b6&style=flat)
+
 ---
 
 ## 🧰 Tech Stack
@@ -29,19 +31,29 @@
 ---
 
 ## 📌 Projects
-- **[MoviePark App](https://www.youtube.com/shorts/ou4AFV_X5TE?feature=share)** – Built with React Native and EXPO  
-- **[E-Commerce Website](https://subtle-toffee-c03964.netlify.app/)** – HTML, CSS, JavaScript  
-- **[Payment App UI](https://www.figma.com/design/whuLauEQRse1r0xey1YygJ/Paysab-Payment-App?node-id=0-1&t=5qqsMh3BjcDoQhGO-1)** – Figma Prototype  
-- **[Mobile App Usage Data Analysis](https://medium.com/@rakeshnatarajan369/data-analysis-report-of-mobile-apps-screentime-analysis-05c30e5092b3)** – Power BI, Python  
+- 🎬 **[MoviePark App](https://www.youtube.com/shorts/ou4AFV_X5TE?feature=share)** – Built with React Native and EXPO  
+- 🛒 **[E-Commerce Website](https://subtle-toffee-c03964.netlify.app/)** – HTML, CSS, JavaScript  
+- 💳 **[Payment App UI](https://www.figma.com/design/whuLauEQRse1r0xey1YygJ/Paysab-Payment-App?node-id=0-1&t=5qqsMh3BjcDoQhGO-1)** – Figma Prototype  
+- 📊 **[Mobile App Usage Data Analysis](https://medium.com/@rakeshnatarajan369/data-analysis-report-of-mobile-apps-screentime-analysis-05c30e5092b3)** – Power BI, Python  
+
+---
+
+## 📈 GitHub Stats
+
+![Rakesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tnrakesh68&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=tnrakesh68&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tnrakesh68&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Let's Connect!
-- 🌐 [Portfolio & Links](https://linktr.ee/rakesh.tn)
-- 💼 [LinkedIn](https://www.linkedin.com/in/rakesh-tn-0b7550345)
-- 📬 tnrakesh68@gmail.com
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue)](https://linktr.ee/rakesh.tn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rakesh-tn-0b7550345)  
+📬 tnrakesh68@gmail.com
 
 ---
 
 > “Design it, Code it, Analyze it. Repeat.”
-
