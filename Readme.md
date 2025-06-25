@@ -38,16 +38,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Rakesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tnrakesh68&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=tnrakesh68&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tnrakesh68&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect!
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue)](https://linktr.ee/rakesh.tn)
