@@ -38,7 +38,7 @@
 
 ## 📫 Let's Connect!
 - 🌐 [Portfolio & Links](https://linktr.ee/rakesh.tn)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rakesh-tn-0b7550345)
 - 📬 tnrakesh68@gmail.com
 
 ---
