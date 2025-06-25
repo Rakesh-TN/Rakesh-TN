@@ -29,10 +29,10 @@
 ---
 
 ## 📌 Projects
-- **[MoviePark App](#)** – Built with React Native and EXPO  
-- **[E-Commerce Website](#)** – HTML, CSS, JavaScript  
-- **[Payment App UI](#)** – Figma Prototype  
-- **[Mobile App Usage Data Analysis](#)** – Power BI, Python  
+- **[MoviePark App](https://www.youtube.com/shorts/ou4AFV_X5TE?feature=share)** – Built with React Native and EXPO  
+- **[E-Commerce Website](https://subtle-toffee-c03964.netlify.app/)** – HTML, CSS, JavaScript  
+- **[Payment App UI](https://www.figma.com/design/whuLauEQRse1r0xey1YygJ/Paysab-Payment-App?node-id=0-1&t=5qqsMh3BjcDoQhGO-1)** – Figma Prototype  
+- **[Mobile App Usage Data Analysis](https://medium.com/@rakeshnatarajan369/data-analysis-report-of-mobile-apps-screentime-analysis-05c30e5092b3)** – Power BI, Python  
 
 ---
 
